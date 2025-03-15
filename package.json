@@ -1,6 +1,6 @@
 {
-  "name": "state-sync",
-  "version": "1.0.0",
+  "name": "state-sync-light",
+  "version": "1.0.1",
   "description": "A lightweight StateSync: Reactive state management with derived states and DOM binding.",
   "main": "index.js",
   "scripts": {
